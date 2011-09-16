@@ -1,0 +1,9 @@
+*~
+*.cmo
+*.cmi
+*.cmx
+*.o
+*.a
+*.cma
+*.cmxa
+.depend
